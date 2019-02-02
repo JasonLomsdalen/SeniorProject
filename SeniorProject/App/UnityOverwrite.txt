@@ -7,7 +7,7 @@
 # Default behavior is to never overwrite files
 SeniorProject.sln: 8216168EFA149A7ADC9A47E8A4E57A37
 SeniorProject\App.cs: 784979AF74B73F35052D3D9CE9C496D8
-SeniorProject\Package.appxmanifest: B4D12A02AFC62924DED98C3EB4A8B509
+SeniorProject\Package.appxmanifest: D47A7BD8DED0D905543AD643C15EAECE
 SeniorProject\project.json: 1D02BC64BAC0D041019673A1C4C51737
 SeniorProject\SeniorProject.csproj: 7BDE8D02E48121C42AAE1C443C057C90
 SeniorProject\SeniorProject.csproj.user: modified

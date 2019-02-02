@@ -15996,12 +15996,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\jlomsdal\\Documents\\SeniorProject\\App\\SeniorProject\\SeniorProject.csproj",
+      "projectUniqueName": "C:\\Users\\jlomsdal\\Documents\\GitHub\\SeniorProject\\SeniorProject\\App\\SeniorProject\\SeniorProject.csproj",
       "projectName": "SeniorProject",
-      "projectPath": "C:\\Users\\jlomsdal\\Documents\\SeniorProject\\App\\SeniorProject\\SeniorProject.csproj",
-      "projectJsonPath": "C:\\Users\\jlomsdal\\Documents\\SeniorProject\\App\\SeniorProject\\project.json",
+      "projectPath": "C:\\Users\\jlomsdal\\Documents\\GitHub\\SeniorProject\\SeniorProject\\App\\SeniorProject\\SeniorProject.csproj",
+      "projectJsonPath": "C:\\Users\\jlomsdal\\Documents\\GitHub\\SeniorProject\\SeniorProject\\App\\SeniorProject\\project.json",
       "packagesPath": "C:\\Users\\jlomsdal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jlomsdal\\Documents\\SeniorProject\\App\\SeniorProject\\obj\\",
+      "outputPath": "C:\\Users\\jlomsdal\\Documents\\GitHub\\SeniorProject\\SeniorProject\\App\\SeniorProject\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\jlomsdal\\AppData\\Roaming\\NuGet\\NuGet.Config",
